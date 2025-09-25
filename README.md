@@ -13,3 +13,4 @@
 - [ ] Button to download CV (automate generation?)
 - [ ] Deploy to GitHub pages
 - [ ] Hobbies (?)
+- [ ] Add calm music to the background
